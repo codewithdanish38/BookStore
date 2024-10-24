@@ -1,0 +1,10 @@
+/* Add these in your CSS file */
+body.light {
+  background-color: rgba(230, 216, 216, 0.87);
+  color:white
+}
+
+body.dark {
+  background-color: rgba(95, 91, 91, 0.677);
+  color: white;
+}
